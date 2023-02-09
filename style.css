@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+#logo {
+    max-width: 35px
+}
+main div {
+    text-align: center;
+}
+main {
+    margin-bottom: 20px;
+    height: 90vh;
+}
+#error {
+    max-width: 350px;
+    height: auto;
+}
+#h1 {
+    margin-top: 0%;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    border-radius: 4px;
+    background: silver;
+    font-size: smaller;
+}
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    
+}
